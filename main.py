@@ -1,6 +1,6 @@
 """Entry for make.fun bounty: The Funniest Sick-Day Excuse
 Slug: u-zeroxfive-the-funniest-sick-day-excuse-37423a36
-Entry text (118 characters, gate max 200). Written to /output/entry.txt with no trailing newline.
+Entry text (114 characters, gate max 200). Written to /output/entry.txt with no trailing newline.
 """
 import os
 
