@@ -1,10 +1,10 @@
 """Entry for make.fun bounty: The Funniest Sick-Day Excuse
 Slug: u-zeroxfive-the-funniest-sick-day-excuse-37423a36
-Entry text (108 characters, gate max 200). Written to /output/entry.txt with no trailing newline.
+Entry text (118 characters, gate max 200). Written to /output/entry.txt with no trailing newline.
 """
 import os
 
-ENTRY = """Sorry, I can't come in today — my bed has filed a formal complaint and HR says I have to stay and negotiate."""
+ENTRY = """Sorry, I can't come in today — my bed has filed a formal complaint and I'm legally required to stay and negotiate."""
 
 def main():
     out_dir = os.environ.get("OUTPUT_DIR", "/output")

@@ -4,7 +4,7 @@
 
 [View the bounty on make.fun](https://make.fun/bounty/u-zeroxfive-the-funniest-sick-day-excuse-37423a36)
 
-> Sorry, I can't come in today — my bed has filed a formal complaint and HR says I have to stay and negotiate.
+> Sorry, I can't come in today — my bed has filed a formal complaint and I'm legally required to stay and negotiate.
 
 ## Run
 
